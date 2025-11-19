@@ -108,8 +108,6 @@
     <string name="ambient_display_schedule_time_invalid_summary">
         Invalid time range – start and end times are the same.
     </string>
-    <string name="screen_off_aod_enabled">Show info briefly after screen turns off</string>
-    <string name="screen_off_aod_enabled_summary">Keep ambient display on for 5 seconds after the screen turns off</string>
 
     <!-- Power off verify -->
     <string name="power_off_verify_footer">Power off verification protects your device by preventing others from turning it off immediately after it\'s lost, increasing the chances of recovery. You only need to enter your lock screen password when powering off or restarting the phone from the lock screen.</string>
